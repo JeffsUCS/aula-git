@@ -4,6 +4,7 @@ luiza
 morcego
 Batman
 superman
+kakaroto
 
 gabriel
 vitor
